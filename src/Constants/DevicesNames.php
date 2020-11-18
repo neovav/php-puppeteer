@@ -1,7 +1,7 @@
 <?php
 namespace Puppeteer\Constants;
 
-class Devices
+class DevicesNames
 {
     const BLACKBERRY_PLAYBOOK = 'Blackberry PlayBook';
     const BLACKBERRY_PLAYBOOK_LANDSCAPE = 'Blackberry PlayBook landscape';
