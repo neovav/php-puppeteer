@@ -1,0 +1,33 @@
+{
+    "name": "neovav/php-puppeteer",
+    "type": "library",
+    "support": {
+        "issues": "https://github.com/neovav/php-puppeteer/issues",
+        "source": "https://github.com/neovav/php-puppeteer"
+    },
+    "minimum-stability": "beta",
+    "description": "Php library for browser control",
+    "keywords": [
+        "php puppeter",
+        "puppeteer",
+        "browser control"
+    ],
+    "license": "MIT License",
+    "require": {
+        "php": "~7.4",
+        "vlucas/phpdotenv": "^5.2",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "Verveda Aleksandr",
+            "email": "neovav@ukr.net",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Puppeteer\\": "src/"
+        }
+    }
+}
