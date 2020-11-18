@@ -50,6 +50,7 @@ class Devices
     const LG_OPTIMUS_L70 = 'LG Optimus L70';
     const LG_OPTIMUS_L70_LANDSCAPE = 'LG Optimus L70 landscape';
     const MICROSOFT_LUMIA_550 = 'Microsoft Lumia 550';
+    const MICROSOFT_LUMIA_950 = 'Microsoft Lumia 950';
     const MICROSOFT_LUMIA_950_LANDSCAPE = 'Microsoft Lumia 950 landscape';
     const NEXUS_10 = 'Nexus 10';
     const NEXUS_10_LANDSCAPE = 'Nexus 10 landscape';
