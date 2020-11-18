@@ -1,7 +1,7 @@
 <?php
 namespace Puppeteer\Constants;
 
-class UserAgents
+class DevicesUserAgents
 {
     const BLACKBERRY_PLAYBOOK = 'Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+';
     const BLACKBERRY_PLAYBOOK_LANDSCAPE = 'Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+';
